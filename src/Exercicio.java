@@ -27,6 +27,6 @@ public class Exercicio {
    
         }
         System.out.println("___|_|__");
-        System.out.println("feliz natal");
+        System.out.println("feliz Natal");
     }  
 }    
